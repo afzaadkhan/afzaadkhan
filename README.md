@@ -26,7 +26,7 @@ If you have any project ideas or collaboration opportunities, feel free to reach
 
 ## Contact Me
 
-- LinkedIn: [Afzaad Khan](https://www.linkedin.com/in/afzaad-khan/)
+- LinkedIn: [Afzaad Khan]([https://www.linkedin.com/in/afzaad-khan/](https://www.linkedin.com/in/afzaad-khan-a7a540261/))
 - Email: afzaadking2@gmail.com
 
 Let's connect and create innovative solutions together! 🚀
