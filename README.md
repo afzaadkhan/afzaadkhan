@@ -1,9 +1,13 @@
-
 <h1 align="center">Afzaad Khan</h1>
 <h3 align="center">Full-Stack Developer · AI & No-Code Innovator</h3>
 
+<!-- Gamified Git Map (Snake) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afzaadkhan/afzaadkhan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afzaadkhan/afzaadkhan/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/afzaadkhan/afzaadkhan/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
