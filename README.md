@@ -1,14 +1,19 @@
+
 <h1 align="center">Afzaad Khan</h1>
 <h3 align="center">Full-Stack Developer · AI & No-Code Innovator</h3>
 
-<!-- Gamified Git Map (Snake) -->
+
+<!-- Animated Contribution Calendar (Snake) -->
+<!-- Animated Contribution Calendar (Snake) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afzaadkhan/afzaadkhan/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afzaadkhan/afzaadkhan/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/afzaadkhan/afzaadkhan/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution calendar" src="https://raw.githubusercontent.com/afzaadkhan/afzaadkhan/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+
 
 ---
 
@@ -55,8 +60,8 @@ No coding. Just building. With forms & flexibility built-in.
 ## 📊 The Numbers  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afzaadkhan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=afzaadkhan&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=afzaadkhan&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=afzaadkhan&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak"/>
 </p>
 
 ---
@@ -72,9 +77,9 @@ No coding. Just building. With forms & flexibility built-in.
 ## 🌍 Connect  
 
 <p align="center">
-  <a href="https://github.com/afzaadkhan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/afzaad-khan-a7a540261/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:afzaadkhann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/afzaadkhan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/afzaad-khan-a7a540261/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:afzaadkhann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
